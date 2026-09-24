@@ -17,7 +17,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Washington Araújo.Washington Araújo&left_text=Seguidores"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=washingtonnarauj.washingtonnarauj&left_text=Seguidores"  />
 </div>
 
 ###
@@ -69,7 +69,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Washington Araújo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=washingtonnarauj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
